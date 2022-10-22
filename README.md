@@ -24,15 +24,3 @@ rails s
 * You can make your account by signing up through google or just with your name, email and password.
 * When logged in, you can add hotels that you've visited and rate them as well. You can edit the hotels you've created and the ratings that you've made.
 You can also delete your hotels and ratings.
-
-Blog on the project: https://mdrsimran.medium.com/my-rails-project-hotelify-4d26b879ae6e
-
-Here is the link to the demo of the project: https://www.youtube.com/watch?v=oPyq7h2Bihs
-
-
-#### License
-This program is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT)
-
-#### Collaborating
-
-Pull Requests are welcome on [GitHub](https://github.com/oshinsayami/flatiron-tuition-centre). 
